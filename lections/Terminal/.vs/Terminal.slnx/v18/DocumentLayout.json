@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\221\\Students\\ISPP-31\\2semestr\\SP\\lections\\Terminal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{74C13D75-E55F-5874-E50F-644AC7E26AC5}|Terminal\\Terminal.csproj|c:\\users\\221\\students\\ispp-31\\2semestr\\sp\\lections\\terminal\\terminal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74C13D75-E55F-5874-E50F-644AC7E26AC5}|Terminal\\Terminal.csproj|solutionrelative:terminal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\221\\Students\\ISPP-31\\2semestr\\SP\\lections\\Terminal\\Terminal\\Program.cs",
+              "RelativeDocumentMoniker": "Terminal\\Program.cs",
+              "ToolTip": "C:\\Users\\221\\Students\\ISPP-31\\2semestr\\SP\\lections\\Terminal\\Terminal\\Program.cs",
+              "RelativeToolTip": "Terminal\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T06:58:42.453Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
