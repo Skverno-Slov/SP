@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "M88/QE7iqWg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\221\\Students\\ISPP-31\\2semestr\\SP\\lections\\SystemInfo\\SystemInfo\\SystemInfo.csproj",
+  "expectedPackageFiles": [
+    "C:\\NugetCache\\Packages\\system.codedom\\10.0.5\\system.codedom.10.0.5.nupkg.sha512",
+    "C:\\NugetCache\\Packages\\system.configuration.configurationmanager\\10.0.5\\system.configuration.configurationmanager.10.0.5.nupkg.sha512",
+    "C:\\NugetCache\\Packages\\system.diagnostics.eventlog\\10.0.5\\system.diagnostics.eventlog.10.0.5.nupkg.sha512",
+    "C:\\NugetCache\\Packages\\system.diagnostics.performancecounter\\10.0.5\\system.diagnostics.performancecounter.10.0.5.nupkg.sha512",
+    "C:\\NugetCache\\Packages\\system.management\\10.0.5\\system.management.10.0.5.nupkg.sha512",
+    "C:\\NugetCache\\Packages\\system.security.cryptography.protecteddata\\10.0.5\\system.security.cryptography.protecteddata.10.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+C:\Users\221\Students\ISPP-31\2semestr\SP\LabWork15\LabWork15\bin\Debug\net10.0\LabWork15.exe
+C:\Users\221\Students\ISPP-31\2semestr\SP\LabWork15\LabWork15\bin\Debug\net10.0\LabWork15.deps.json
+C:\Users\221\Students\ISPP-31\2semestr\SP\LabWork15\LabWork15\bin\Debug\net10.0\LabWork15.runtimeconfig.json
+C:\Users\221\Students\ISPP-31\2semestr\SP\LabWork15\LabWork15\bin\Debug\net10.0\LabWork15.dll
+C:\Users\221\Students\ISPP-31\2semestr\SP\LabWork15\LabWork15\bin\Debug\net10.0\LabWork15.pdb
+C:\Users\221\Students\ISPP-31\2semestr\SP\LabWork15\LabWork15\obj\Debug\net10.0\LabWork15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\221\Students\ISPP-31\2semestr\SP\LabWork15\LabWork15\obj\Debug\net10.0\LabWork15.AssemblyInfoInputs.cache
+C:\Users\221\Students\ISPP-31\2semestr\SP\LabWork15\LabWork15\obj\Debug\net10.0\LabWork15.AssemblyInfo.cs
+C:\Users\221\Students\ISPP-31\2semestr\SP\LabWork15\LabWork15\obj\Debug\net10.0\LabWork15.csproj.CoreCompileInputs.cache
+C:\Users\221\Students\ISPP-31\2semestr\SP\LabWork15\LabWork15\obj\Debug\net10.0\LabWork15.sourcelink.json
+C:\Users\221\Students\ISPP-31\2semestr\SP\LabWork15\LabWork15\obj\Debug\net10.0\LabWork15.dll
+C:\Users\221\Students\ISPP-31\2semestr\SP\LabWork15\LabWork15\obj\Debug\net10.0\refint\LabWork15.dll
+C:\Users\221\Students\ISPP-31\2semestr\SP\LabWork15\LabWork15\obj\Debug\net10.0\LabWork15.pdb
+C:\Users\221\Students\ISPP-31\2semestr\SP\LabWork15\LabWork15\obj\Debug\net10.0\LabWork15.genruntimeconfig.cache
+C:\Users\221\Students\ISPP-31\2semestr\SP\LabWork15\LabWork15\obj\Debug\net10.0\ref\LabWork15.dll
