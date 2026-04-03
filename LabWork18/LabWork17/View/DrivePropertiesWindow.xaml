@@ -1,0 +1,44 @@
+﻿<Window x:Class="LabWork17.View.DrivePropertiesWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LabWork17.View" xmlns:viewmodel="clr-namespace:LabWork17.ViewModel" d:DataContext="{d:DesignInstance Type=viewmodel:DrivePropertiesViewModel}"
+        mc:Ignorable="d"
+        Title="DrivePropertiesWindow" Height="250" Width="400">
+    <DockPanel>
+        <StackPanel Orientation="Horizontal" DockPanel.Dock="Top">
+            <Image Source="/Res/Icons/Disk.png" Margin="5" Width="40"/>
+            <TextBlock Text="{Binding Label}" Margin="20"/>
+            <StackPanel/>
+        </StackPanel>
+        <DockPanel Margin="5" DockPanel.Dock="Top">
+            <TextBlock Text="Тип"/>
+            <TextBlock DockPanel.Dock="Right" Text="{Binding Type}"/>
+            <StackPanel/>
+        </DockPanel>
+        <DockPanel Margin="5" DockPanel.Dock="Top">
+            <TextBlock Text="Файловая система"/>
+            <TextBlock DockPanel.Dock="Right" Text="{Binding FileSystem}"/>
+            <StackPanel/>
+        </DockPanel>
+        <DockPanel Margin="5" DockPanel.Dock="Top">
+            <TextBlock Text="Занято"/>
+            <TextBlock DockPanel.Dock="Right" Text="{Binding UsedSpace}"/>
+            <TextBlock DockPanel.Dock="Right" Text="{Binding UsedBytes}" Margin="0,0,10,0"/>
+            <StackPanel/>
+        </DockPanel>
+        <DockPanel Margin="5" DockPanel.Dock="Top">
+            <TextBlock Text="Свободно"/>
+            <TextBlock DockPanel.Dock="Right" Text="{Binding FreeSpace}"/>
+            <TextBlock DockPanel.Dock="Right" Text="{Binding FreeBytes}" Margin="0,0,10,0"/>
+            <StackPanel/>
+        </DockPanel>
+        <DockPanel Margin="5" DockPanel.Dock="Top">
+            <TextBlock Text="Ёмкость"/>
+            <TextBlock DockPanel.Dock="Right" Text="{Binding TotalSpace}"/>
+            <TextBlock DockPanel.Dock="Right" Text="{Binding TotalBytes}" Margin="0,0,10,0"/>
+            <StackPanel/>
+        </DockPanel>
+    </DockPanel>
+</Window>

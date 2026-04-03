@@ -1,0 +1,36 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Res\Icons\Default.png" />
+    <None Remove="Res\Icons\Disk.png" />
+    <None Remove="Res\Icons\Folder.png" />
+    <None Remove="Res\Icons\Image.png" />
+    <None Remove="Res\Icons\TxtFile.png" />
+    <None Remove="Res\Icons\Zip.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Res\Icons\Disk.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="CommunityToolkit.Mvvm" Version="8.4.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Res\Icons\Default.png" />
+    <Resource Include="Res\Icons\Folder.png" />
+    <Resource Include="Res\Icons\Image.png" />
+    <Resource Include="Res\Icons\TxtFile.png" />
+    <Resource Include="Res\Icons\Zip.png" />
+  </ItemGroup>
+
+</Project>

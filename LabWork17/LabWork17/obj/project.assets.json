@@ -68,23 +68,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\NugetCache\\Packages": {},
+    "C:\\Users\\THUNDER\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\221\\Students\\ISPP-31\\2semestr\\SP\\LabWork17\\LabWork17\\LabWork17.csproj",
+      "projectUniqueName": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\SP\\LabWork17\\LabWork17\\LabWork17.csproj",
       "projectName": "LabWork17",
-      "projectPath": "C:\\Users\\221\\Students\\ISPP-31\\2semestr\\SP\\LabWork17\\LabWork17\\LabWork17.csproj",
-      "packagesPath": "C:\\NugetCache\\Packages",
-      "outputPath": "C:\\Users\\221\\Students\\ISPP-31\\2semestr\\SP\\LabWork17\\LabWork17\\obj\\",
+      "projectPath": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\SP\\LabWork17\\LabWork17\\LabWork17.csproj",
+      "packagesPath": "C:\\Users\\THUNDER\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\SP\\LabWork17\\LabWork17\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\221\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\THUNDER\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -93,7 +93,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -112,7 +111,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "10.0.100"
+      "SdkAnalysisLevel": "9.0.300"
     },
     "frameworks": {
       "net8.0-windows7.0": {
@@ -142,7 +141,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.101/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.312/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

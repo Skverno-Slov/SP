@@ -1,0 +1,302 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\SP\\LabWork18\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D9500F6-5B65-5611-C69E-7EDF569690D4}|LabWork17\\LabWork17.csproj|c:\\users\\thunder\\onedrive\\desktop\\repositories\\sp\\labwork18\\labwork17\\view\\drivepropertieswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2D9500F6-5B65-5611-C69E-7EDF569690D4}|LabWork17\\LabWork17.csproj|solutionrelative:labwork17\\view\\drivepropertieswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D9500F6-5B65-5611-C69E-7EDF569690D4}|LabWork17\\LabWork17.csproj|c:\\users\\thunder\\onedrive\\desktop\\repositories\\sp\\labwork18\\labwork17\\viewmodel\\drivesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D9500F6-5B65-5611-C69E-7EDF569690D4}|LabWork17\\LabWork17.csproj|solutionrelative:labwork17\\viewmodel\\drivesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D9500F6-5B65-5611-C69E-7EDF569690D4}|LabWork17\\LabWork17.csproj|c:\\users\\thunder\\onedrive\\desktop\\repositories\\sp\\labwork18\\labwork17\\view\\drivespage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2D9500F6-5B65-5611-C69E-7EDF569690D4}|LabWork17\\LabWork17.csproj|solutionrelative:labwork17\\view\\drivespage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D9500F6-5B65-5611-C69E-7EDF569690D4}|LabWork17\\LabWork17.csproj|c:\\users\\thunder\\onedrive\\desktop\\repositories\\sp\\labwork18\\labwork17\\view\\drivespage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D9500F6-5B65-5611-C69E-7EDF569690D4}|LabWork17\\LabWork17.csproj|solutionrelative:labwork17\\view\\drivespage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D9500F6-5B65-5611-C69E-7EDF569690D4}|LabWork17\\LabWork17.csproj|c:\\users\\thunder\\onedrive\\desktop\\repositories\\sp\\labwork18\\labwork17\\view\\drivepropertieswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D9500F6-5B65-5611-C69E-7EDF569690D4}|LabWork17\\LabWork17.csproj|solutionrelative:labwork17\\view\\drivepropertieswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D9500F6-5B65-5611-C69E-7EDF569690D4}|LabWork17\\LabWork17.csproj|c:\\users\\thunder\\onedrive\\desktop\\repositories\\sp\\labwork18\\labwork17\\viewmodel\\drivepropertiesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D9500F6-5B65-5611-C69E-7EDF569690D4}|LabWork17\\LabWork17.csproj|solutionrelative:labwork17\\viewmodel\\drivepropertiesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D9500F6-5B65-5611-C69E-7EDF569690D4}|LabWork17\\LabWork17.csproj|c:\\users\\thunder\\onedrive\\desktop\\repositories\\sp\\labwork18\\labwork17\\view\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D9500F6-5B65-5611-C69E-7EDF569690D4}|LabWork17\\LabWork17.csproj|solutionrelative:labwork17\\view\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D9500F6-5B65-5611-C69E-7EDF569690D4}|LabWork17\\LabWork17.csproj|c:\\users\\thunder\\onedrive\\desktop\\repositories\\sp\\labwork18\\labwork17\\viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D9500F6-5B65-5611-C69E-7EDF569690D4}|LabWork17\\LabWork17.csproj|solutionrelative:labwork17\\viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D9500F6-5B65-5611-C69E-7EDF569690D4}|LabWork17\\LabWork17.csproj|c:\\users\\thunder\\onedrive\\desktop\\repositories\\sp\\labwork18\\labwork17\\viewmodel\\filelistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D9500F6-5B65-5611-C69E-7EDF569690D4}|LabWork17\\LabWork17.csproj|solutionrelative:labwork17\\viewmodel\\filelistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D9500F6-5B65-5611-C69E-7EDF569690D4}|LabWork17\\LabWork17.csproj|c:\\users\\thunder\\onedrive\\desktop\\repositories\\sp\\labwork18\\labwork17\\view\\filelistpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2D9500F6-5B65-5611-C69E-7EDF569690D4}|LabWork17\\LabWork17.csproj|solutionrelative:labwork17\\view\\filelistpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D9500F6-5B65-5611-C69E-7EDF569690D4}|LabWork17\\LabWork17.csproj|c:\\users\\thunder\\onedrive\\desktop\\repositories\\sp\\labwork18\\labwork17\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2D9500F6-5B65-5611-C69E-7EDF569690D4}|LabWork17\\LabWork17.csproj|solutionrelative:labwork17\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\THUNDER\\AppData\\Local\\Temp\\.vsdbgsrc\\5917cbb70f9b28a245decce13428c9b8b0242b7bced3975c23780bdc4e8c9caa\\XamlReader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D9500F6-5B65-5611-C69E-7EDF569690D4}|LabWork17\\LabWork17.csproj|c:\\users\\thunder\\onedrive\\desktop\\repositories\\sp\\labwork18\\labwork17\\model\\driveproperties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D9500F6-5B65-5611-C69E-7EDF569690D4}|LabWork17\\LabWork17.csproj|solutionrelative:labwork17\\model\\driveproperties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D9500F6-5B65-5611-C69E-7EDF569690D4}|LabWork17\\LabWork17.csproj|c:\\users\\thunder\\onedrive\\desktop\\repositories\\sp\\labwork18\\labwork17\\view\\filelistpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D9500F6-5B65-5611-C69E-7EDF569690D4}|LabWork17\\LabWork17.csproj|solutionrelative:labwork17\\view\\filelistpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D9500F6-5B65-5611-C69E-7EDF569690D4}|LabWork17\\LabWork17.csproj|c:\\users\\thunder\\onedrive\\desktop\\repositories\\sp\\labwork18\\labwork17\\services\\appservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D9500F6-5B65-5611-C69E-7EDF569690D4}|LabWork17\\LabWork17.csproj|solutionrelative:labwork17\\services\\appservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\THUNDER\\AppData\\Local\\Temp\\.vsdbgsrc\\229e7be31f9c07f07d4a015bfccca0369d8b6096530c222259ab1982e2e973ba\\Page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D9500F6-5B65-5611-C69E-7EDF569690D4}|LabWork17\\LabWork17.csproj|c:\\users\\thunder\\onedrive\\desktop\\repositories\\sp\\labwork18\\labwork17\\model\\navigatetopathmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D9500F6-5B65-5611-C69E-7EDF569690D4}|LabWork17\\LabWork17.csproj|solutionrelative:labwork17\\model\\navigatetopathmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 226,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DrivesPage.xaml",
+              "DocumentMoniker": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\SP\\LabWork18\\LabWork17\\View\\DrivesPage.xaml",
+              "RelativeDocumentMoniker": "LabWork17\\View\\DrivesPage.xaml",
+              "ToolTip": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\SP\\LabWork18\\LabWork17\\View\\DrivesPage.xaml",
+              "RelativeToolTip": "LabWork17\\View\\DrivesPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-27T22:23:48.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DrivesPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\SP\\LabWork18\\LabWork17\\View\\DrivesPage.xaml.cs",
+              "RelativeDocumentMoniker": "LabWork17\\View\\DrivesPage.xaml.cs",
+              "ToolTip": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\SP\\LabWork18\\LabWork17\\View\\DrivesPage.xaml.cs",
+              "RelativeToolTip": "LabWork17\\View\\DrivesPage.xaml.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAABsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T22:43:36.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DrivePropertiesWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\SP\\LabWork18\\LabWork17\\View\\DrivePropertiesWindow.xaml",
+              "RelativeDocumentMoniker": "LabWork17\\View\\DrivePropertiesWindow.xaml",
+              "ToolTip": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\SP\\LabWork18\\LabWork17\\View\\DrivePropertiesWindow.xaml*",
+              "RelativeToolTip": "LabWork17\\View\\DrivePropertiesWindow.xaml*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-28T13:55:38.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DrivesViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\SP\\LabWork18\\LabWork17\\ViewModel\\DrivesViewModel.cs",
+              "RelativeDocumentMoniker": "LabWork17\\ViewModel\\DrivesViewModel.cs",
+              "ToolTip": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\SP\\LabWork18\\LabWork17\\ViewModel\\DrivesViewModel.cs",
+              "RelativeToolTip": "LabWork17\\ViewModel\\DrivesViewModel.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAASwCgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T22:20:42.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DrivePropertiesWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\SP\\LabWork18\\LabWork17\\View\\DrivePropertiesWindow.xaml.cs",
+              "RelativeDocumentMoniker": "LabWork17\\View\\DrivePropertiesWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\SP\\LabWork18\\LabWork17\\View\\DrivePropertiesWindow.xaml.cs",
+              "RelativeToolTip": "LabWork17\\View\\DrivePropertiesWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T14:03:48.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DrivePropertiesViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\SP\\LabWork18\\LabWork17\\ViewModel\\DrivePropertiesViewModel.cs",
+              "RelativeDocumentMoniker": "LabWork17\\ViewModel\\DrivePropertiesViewModel.cs",
+              "ToolTip": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\SP\\LabWork18\\LabWork17\\ViewModel\\DrivePropertiesViewModel.cs",
+              "RelativeToolTip": "LabWork17\\ViewModel\\DrivePropertiesViewModel.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T13:52:15.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\SP\\LabWork18\\LabWork17\\ViewModel\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "LabWork17\\ViewModel\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\SP\\LabWork18\\LabWork17\\ViewModel\\MainViewModel.cs",
+              "RelativeToolTip": "LabWork17\\ViewModel\\MainViewModel.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAUwDoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T22:22:18.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FileListPage.xaml",
+              "DocumentMoniker": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\SP\\LabWork18\\LabWork17\\View\\FileListPage.xaml",
+              "RelativeDocumentMoniker": "LabWork17\\View\\FileListPage.xaml",
+              "ToolTip": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\SP\\LabWork18\\LabWork17\\View\\FileListPage.xaml",
+              "RelativeToolTip": "LabWork17\\View\\FileListPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-27T10:29:17.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\SP\\LabWork18\\LabWork17\\View\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "LabWork17\\View\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\SP\\LabWork18\\LabWork17\\View\\MainWindow.xaml.cs",
+              "RelativeToolTip": "LabWork17\\View\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T22:46:28.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FileListPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\SP\\LabWork18\\LabWork17\\View\\FileListPage.xaml.cs",
+              "RelativeDocumentMoniker": "LabWork17\\View\\FileListPage.xaml.cs",
+              "ToolTip": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\SP\\LabWork18\\LabWork17\\View\\FileListPage.xaml.cs",
+              "RelativeToolTip": "LabWork17\\View\\FileListPage.xaml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T22:35:37.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FileListViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\SP\\LabWork18\\LabWork17\\ViewModel\\FileListViewModel.cs",
+              "RelativeDocumentMoniker": "LabWork17\\ViewModel\\FileListViewModel.cs",
+              "ToolTip": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\SP\\LabWork18\\LabWork17\\ViewModel\\FileListViewModel.cs",
+              "RelativeToolTip": "LabWork17\\ViewModel\\FileListViewModel.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAkwGQAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T10:09:02.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\SP\\LabWork18\\LabWork17\\View\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "LabWork17\\View\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\SP\\LabWork18\\LabWork17\\View\\MainWindow.xaml",
+              "RelativeToolTip": "LabWork17\\View\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-27T10:29:14.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AppService.cs",
+              "DocumentMoniker": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\SP\\LabWork18\\LabWork17\\Services\\AppService.cs",
+              "RelativeDocumentMoniker": "LabWork17\\Services\\AppService.cs",
+              "ToolTip": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\SP\\LabWork18\\LabWork17\\Services\\AppService.cs",
+              "RelativeToolTip": "LabWork17\\Services\\AppService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T13:14:18.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "XamlReader.cs",
+              "DocumentMoniker": "C:\\Users\\THUNDER\\AppData\\Local\\Temp\\.vsdbgsrc\\5917cbb70f9b28a245decce13428c9b8b0242b7bced3975c23780bdc4e8c9caa\\XamlReader.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\5917cbb70f9b28a245decce13428c9b8b0242b7bced3975c23780bdc4e8c9caa\\XamlReader.cs",
+              "ToolTip": "C:\\Users\\THUNDER\\AppData\\Local\\Temp\\.vsdbgsrc\\5917cbb70f9b28a245decce13428c9b8b0242b7bced3975c23780bdc4e8c9caa\\XamlReader.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\5917cbb70f9b28a245decce13428c9b8b0242b7bced3975c23780bdc4e8c9caa\\XamlReader.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "ViewState": "AgIAAPEBAAAAAAAAAAAawP4BAAACAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T13:20:43.104Z",
+              "EditorCaption": " [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DriveProperties.cs",
+              "DocumentMoniker": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\SP\\LabWork18\\LabWork17\\Model\\DriveProperties.cs",
+              "RelativeDocumentMoniker": "LabWork17\\Model\\DriveProperties.cs",
+              "ToolTip": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\SP\\LabWork18\\LabWork17\\Model\\DriveProperties.cs",
+              "RelativeToolTip": "LabWork17\\Model\\DriveProperties.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvxMAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T22:16:02.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Page.cs",
+              "DocumentMoniker": "C:\\Users\\THUNDER\\AppData\\Local\\Temp\\.vsdbgsrc\\229e7be31f9c07f07d4a015bfccca0369d8b6096530c222259ab1982e2e973ba\\Page.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\229e7be31f9c07f07d4a015bfccca0369d8b6096530c222259ab1982e2e973ba\\Page.cs",
+              "ToolTip": "C:\\Users\\THUNDER\\AppData\\Local\\Temp\\.vsdbgsrc\\229e7be31f9c07f07d4a015bfccca0369d8b6096530c222259ab1982e2e973ba\\Page.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\229e7be31f9c07f07d4a015bfccca0369d8b6096530c222259ab1982e2e973ba\\Page.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "ViewState": "AgIAAIkCAAAAAAAAAAAawJYCAAACAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T22:47:11.335Z",
+              "EditorCaption": " [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "NavigateToPathMessage.cs",
+              "DocumentMoniker": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\SP\\LabWork18\\LabWork17\\Model\\NavigateToPathMessage.cs",
+              "RelativeDocumentMoniker": "LabWork17\\Model\\NavigateToPathMessage.cs",
+              "ToolTip": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\SP\\LabWork18\\LabWork17\\Model\\NavigateToPathMessage.cs",
+              "RelativeToolTip": "LabWork17\\Model\\NavigateToPathMessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T22:41:49.84Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

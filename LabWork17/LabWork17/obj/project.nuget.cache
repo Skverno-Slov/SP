@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "B55Hvj7TRBo=",
+  "dgSpecHash": "RUvoAEtFK0M=",
   "success": true,
-  "projectFilePath": "C:\\Users\\221\\Students\\ISPP-31\\2semestr\\SP\\LabWork17\\LabWork17\\LabWork17.csproj",
+  "projectFilePath": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\SP\\LabWork17\\LabWork17\\LabWork17.csproj",
   "expectedPackageFiles": [
-    "C:\\NugetCache\\Packages\\communitytoolkit.mvvm\\8.4.1\\communitytoolkit.mvvm.8.4.1.nupkg.sha512"
+    "C:\\Users\\THUNDER\\.nuget\\packages\\communitytoolkit.mvvm\\8.4.1\\communitytoolkit.mvvm.8.4.1.nupkg.sha512"
   ],
   "logs": []
 }

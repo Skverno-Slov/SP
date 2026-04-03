@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\SP\\LabWork17\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D9500F6-5B65-5611-C69E-7EDF569690D4}|LabWork17\\LabWork17.csproj|c:\\users\\thunder\\onedrive\\desktop\\repositories\\sp\\labwork17\\labwork17\\viewmodel\\filelistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D9500F6-5B65-5611-C69E-7EDF569690D4}|LabWork17\\LabWork17.csproj|solutionrelative:labwork17\\viewmodel\\filelistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D9500F6-5B65-5611-C69E-7EDF569690D4}|LabWork17\\LabWork17.csproj|c:\\users\\thunder\\onedrive\\desktop\\repositories\\sp\\labwork17\\labwork17\\view\\filelistpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2D9500F6-5B65-5611-C69E-7EDF569690D4}|LabWork17\\LabWork17.csproj|solutionrelative:labwork17\\view\\filelistpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D9500F6-5B65-5611-C69E-7EDF569690D4}|LabWork17\\LabWork17.csproj|c:\\users\\thunder\\onedrive\\desktop\\repositories\\sp\\labwork17\\labwork17\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2D9500F6-5B65-5611-C69E-7EDF569690D4}|LabWork17\\LabWork17.csproj|solutionrelative:labwork17\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 226,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FileListPage.xaml",
+              "DocumentMoniker": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\SP\\LabWork17\\LabWork17\\View\\FileListPage.xaml",
+              "RelativeDocumentMoniker": "LabWork17\\View\\FileListPage.xaml",
+              "ToolTip": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\SP\\LabWork17\\LabWork17\\View\\FileListPage.xaml*",
+              "RelativeToolTip": "LabWork17\\View\\FileListPage.xaml*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-27T10:29:17.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\SP\\LabWork17\\LabWork17\\View\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "LabWork17\\View\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\SP\\LabWork17\\LabWork17\\View\\MainWindow.xaml",
+              "RelativeToolTip": "LabWork17\\View\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-27T10:29:14.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileListViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\SP\\LabWork17\\LabWork17\\ViewModel\\FileListViewModel.cs",
+              "RelativeDocumentMoniker": "LabWork17\\ViewModel\\FileListViewModel.cs",
+              "ToolTip": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\SP\\LabWork17\\LabWork17\\ViewModel\\FileListViewModel.cs",
+              "RelativeToolTip": "LabWork17\\ViewModel\\FileListViewModel.cs",
+              "ViewState": "AgIAALEAAAAAAAAAAAAUwLgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T10:09:02.143Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

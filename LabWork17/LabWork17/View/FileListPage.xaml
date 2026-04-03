@@ -12,13 +12,16 @@
         <DockPanel DockPanel.Dock="Top">
             <StackPanel Orientation="Horizontal">
                 <TextBlock Text="Текущий каталог"/>
-                <TextBox Text="{Binding CurrentDir}"/>
+                <TextBox Text="{Binding CurrentDir, UpdateSourceTrigger=PropertyChanged}">
+                    <TextBox.InputBindings>
+                        <KeyBinding Key="Return" Command="{Binding LoadDirCommand}"/>
+                    </TextBox.InputBindings>
+                </TextBox>
             </StackPanel>
         </DockPanel>
         <DataGrid AutoGenerateColumns="False"
                   CanUserAddRows="False"
                   CanUserDeleteRows="False"
-                  SelectionMode="Single"
                   IsReadOnly="True"
                   ItemsSource="{Binding Files}"
                   RowBackground="Gray"
@@ -28,6 +31,24 @@
             <DataGrid.InputBindings>
                 <MouseBinding MouseAction="LeftDoubleClick" Command="{Binding OpenDirCommand}"/> 
             </DataGrid.InputBindings>
+            <DataGrid.ContextMenu>
+                <ContextMenu>
+                    <MenuItem Header="Копировать" 
+                      Command="{Binding CopyCommand}" 
+                      CommandParameter="{Binding PlacementTarget.SelectedItems, RelativeSource={RelativeSource AncestorType=ContextMenu}}" />
+
+                    <MenuItem Header="Вставить" 
+                      Command="{Binding PasteCommand}" />
+                
+                    <MenuItem Header="Сжать в zip" 
+                      Command="{Binding CompressCommand}" 
+                      CommandParameter="{Binding PlacementTarget.SelectedItem, RelativeSource={RelativeSource AncestorType=ContextMenu}}" />
+
+                    <MenuItem Header="Извлечь из zip" 
+                      Command="{Binding DecompressCommand}" 
+                      CommandParameter="{Binding PlacementTarget.SelectedItem, RelativeSource={RelativeSource AncestorType=ContextMenu}}" />
+                </ContextMenu>
+            </DataGrid.ContextMenu>
             <DataGrid.Columns>
                 <DataGridTemplateColumn Header="Иконка">
                     <DataGridTemplateColumn.CellTemplate>
