@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\221\\Students\\ISPP-31\\2semestr\\SP\\LabWork22\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B45A210-958C-4245-9AC3-E61694C2CD5D}|LabWork22\\LabWork22.csproj|c:\\users\\221\\students\\ispp-31\\2semestr\\sp\\labwork22\\labwork22\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B45A210-958C-4245-9AC3-E61694C2CD5D}|LabWork22\\LabWork22.csproj|solutionrelative:labwork22\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B45A210-958C-4245-9AC3-E61694C2CD5D}|LabWork22\\LabWork22.csproj|c:\\users\\221\\students\\ispp-31\\2semestr\\sp\\labwork22\\labwork22\\labwork22.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6B45A210-958C-4245-9AC3-E61694C2CD5D}|LabWork22\\LabWork22.csproj|solutionrelative:labwork22\\labwork22.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LabWork22",
+              "DocumentMoniker": "C:\\Users\\221\\Students\\ISPP-31\\2semestr\\SP\\LabWork22\\LabWork22\\LabWork22.csproj",
+              "RelativeDocumentMoniker": "LabWork22\\LabWork22.csproj",
+              "ToolTip": "C:\\Users\\221\\Students\\ISPP-31\\2semestr\\SP\\LabWork22\\LabWork22\\LabWork22.csproj",
+              "RelativeToolTip": "LabWork22\\LabWork22.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-07T06:07:39.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\221\\Students\\ISPP-31\\2semestr\\SP\\LabWork22\\LabWork22\\Program.cs",
+              "RelativeDocumentMoniker": "LabWork22\\Program.cs",
+              "ToolTip": "C:\\Users\\221\\Students\\ISPP-31\\2semestr\\SP\\LabWork22\\LabWork22\\Program.cs*",
+              "RelativeToolTip": "LabWork22\\Program.cs*",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwBAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T05:37:17.837Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

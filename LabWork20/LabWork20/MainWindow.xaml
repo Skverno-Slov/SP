@@ -1,0 +1,14 @@
+﻿<Window x:Class="LabWork20.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LabWork20"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button x:Name="openNewOperation" Height="25" Margin="647,320,10,84" Content="Запустить новую задачу" VerticalAlignment="Center"/>
+        <Button x:Name="closeOperation" Height="25" Margin="647,355,10,49" Content="Снять задачу" VerticalAlignment="Center"/>
+        <Button x:Name="closeButtom" Margin="737,405,10,10" Content="Выход" VerticalAlignment="Center"/>
+    </Grid>
+</Window>
