@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\bin",
+    "\\bin\\Debug",
+    "\\bin\\Debug\\net8.0-windows",
+    "\\Model",
+    "\\ViewModel"
+  ],
+  "SelectedNode": "\\ViewModel\\FileListViewModel.cs",
+  "PreviewInSolutionExplorer": false
+}

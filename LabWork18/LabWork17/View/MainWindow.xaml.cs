@@ -21,7 +21,7 @@ namespace LabWork17
         {
             InitializeComponent();
 
-            DataContext = new MainViewModel();
+            DataContext = MainViewModelHandler.vm;
         }
     }
 }

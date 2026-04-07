@@ -41,6 +41,7 @@ namespace LabWork17.ViewModel
                 if (SelectedItem.IsDir)
                 {
                     CurrentDir = SelectedItem.FullPath;
+                    MainViewModelHandler.vm.CurrentPath = CurrentDir;
                     LoadDir();
                 }
                 else

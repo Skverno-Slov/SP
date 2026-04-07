@@ -48,7 +48,7 @@
                     </DataGridTemplateColumn.CellTemplate>
                 </DataGridTemplateColumn>
                 <DataGridTextColumn Header="Название" Binding="{Binding Name}"/>
-                <DataGridTextColumn Header="Путь" Binding="{Binding Fullpath}"/>
+                <DataGridTextColumn Header="Путь" Binding="{Binding FullPath}"/>
                 <DataGridTextColumn Header="Размер" Binding="{Binding Size}"/>
                 <DataGridTextColumn Header="Последнее изменение" Binding="{Binding LastUpdate}"/>
             </DataGrid.Columns>
