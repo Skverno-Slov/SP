@@ -1,0 +1,49 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Images\bkuesjukk.jpg" />
+    <None Remove="Images\cat.jpg" />
+    <None Remove="Images\cat2.jpg" />
+    <None Remove="Images\donatNet.jpg" />
+    <None Remove="Images\dota2shit.jpg" />
+    <None Remove="Images\dotaisbestwoman — копия %282%29.jpg" />
+    <None Remove="Images\eshesh — копия %282%29.png" />
+    <None Remove="Images\fid — копия %282%29.jpg" />
+    <None Remove="Images\lion.jpg" />
+    <None Remove="Images\mousewithgun.jpg" />
+    <None Remove="Images\neheheheh.jpg" />
+    <None Remove="Images\snaiper.jpg" />
+    <None Remove="Images\teamatePosralis.jpg" />
+    <None Remove="Images\trash.jpg" />
+    <None Remove="Images\trueZombi — копия %282%29.jpg" />
+    <None Remove="Images\ttlt.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Images\bkuesjukk.jpg" />
+    <Resource Include="Images\cat.jpg" />
+    <Resource Include="Images\cat2.jpg" />
+    <Resource Include="Images\donatNet.jpg" />
+    <Resource Include="Images\dota2shit.jpg" />
+    <Resource Include="Images\dotaisbestwoman — копия (2).jpg" />
+    <Resource Include="Images\eshesh — копия (2).png" />
+    <Resource Include="Images\fid — копия (2).jpg" />
+    <Resource Include="Images\lion.jpg" />
+    <Resource Include="Images\mousewithgun.jpg" />
+    <Resource Include="Images\neheheheh.jpg" />
+    <Resource Include="Images\snaiper.jpg" />
+    <Resource Include="Images\teamatePosralis.jpg" />
+    <Resource Include="Images\trash.jpg" />
+    <Resource Include="Images\trueZombi — копия (2).jpg" />
+    <Resource Include="Images\ttlt.jpg" />
+  </ItemGroup>
+
+</Project>
