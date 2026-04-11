@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="ConsoleClient/ConsoleClient.csproj" Id="40b7ed11-0913-4a52-be09-0c61054ee202" />
+  <Project Path="ConsoleClientPhoto/ConsoleClientPhoto.csproj" Id="7295e043-df14-45e7-8ec7-40dc9e6baa7d" />
+  <Project Path="ConsoleServer/ConsoleServer.csproj" Id="9a47f8dd-8862-4e67-b886-a42ed417ef88" />
+  <Project Path="ConsoleServerPhoto/ConsoleServerPhoto.csproj" Id="06032886-63f4-4844-97fb-62e16983d308" />
+  <Project Path="LabWork26/LabWork26.csproj" />
+  <Project Path="ServerApp/ServerApp.csproj" />
+</Solution>

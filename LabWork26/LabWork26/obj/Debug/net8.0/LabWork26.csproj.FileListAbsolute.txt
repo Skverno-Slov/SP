@@ -1,0 +1,15 @@
+C:\Users\221\Students\ISPP-31\2semestr\SP\LabWork26\LabWork26\bin\Debug\net8.0\LabWork26.exe
+C:\Users\221\Students\ISPP-31\2semestr\SP\LabWork26\LabWork26\bin\Debug\net8.0\LabWork26.deps.json
+C:\Users\221\Students\ISPP-31\2semestr\SP\LabWork26\LabWork26\bin\Debug\net8.0\LabWork26.runtimeconfig.json
+C:\Users\221\Students\ISPP-31\2semestr\SP\LabWork26\LabWork26\bin\Debug\net8.0\LabWork26.dll
+C:\Users\221\Students\ISPP-31\2semestr\SP\LabWork26\LabWork26\bin\Debug\net8.0\LabWork26.pdb
+C:\Users\221\Students\ISPP-31\2semestr\SP\LabWork26\LabWork26\obj\Debug\net8.0\LabWork26.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\221\Students\ISPP-31\2semestr\SP\LabWork26\LabWork26\obj\Debug\net8.0\LabWork26.AssemblyInfoInputs.cache
+C:\Users\221\Students\ISPP-31\2semestr\SP\LabWork26\LabWork26\obj\Debug\net8.0\LabWork26.AssemblyInfo.cs
+C:\Users\221\Students\ISPP-31\2semestr\SP\LabWork26\LabWork26\obj\Debug\net8.0\LabWork26.csproj.CoreCompileInputs.cache
+C:\Users\221\Students\ISPP-31\2semestr\SP\LabWork26\LabWork26\obj\Debug\net8.0\LabWork26.sourcelink.json
+C:\Users\221\Students\ISPP-31\2semestr\SP\LabWork26\LabWork26\obj\Debug\net8.0\LabWork26.dll
+C:\Users\221\Students\ISPP-31\2semestr\SP\LabWork26\LabWork26\obj\Debug\net8.0\refint\LabWork26.dll
+C:\Users\221\Students\ISPP-31\2semestr\SP\LabWork26\LabWork26\obj\Debug\net8.0\LabWork26.pdb
+C:\Users\221\Students\ISPP-31\2semestr\SP\LabWork26\LabWork26\obj\Debug\net8.0\LabWork26.genruntimeconfig.cache
+C:\Users\221\Students\ISPP-31\2semestr\SP\LabWork26\LabWork26\obj\Debug\net8.0\ref\LabWork26.dll

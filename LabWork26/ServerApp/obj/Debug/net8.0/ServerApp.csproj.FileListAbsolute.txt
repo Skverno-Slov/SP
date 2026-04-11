@@ -1,0 +1,15 @@
+C:\Users\221\Students\ISPP-31\2semestr\SP\LabWork26\ServerApp\bin\Debug\net8.0\ServerApp.exe
+C:\Users\221\Students\ISPP-31\2semestr\SP\LabWork26\ServerApp\bin\Debug\net8.0\ServerApp.deps.json
+C:\Users\221\Students\ISPP-31\2semestr\SP\LabWork26\ServerApp\bin\Debug\net8.0\ServerApp.runtimeconfig.json
+C:\Users\221\Students\ISPP-31\2semestr\SP\LabWork26\ServerApp\bin\Debug\net8.0\ServerApp.dll
+C:\Users\221\Students\ISPP-31\2semestr\SP\LabWork26\ServerApp\bin\Debug\net8.0\ServerApp.pdb
+C:\Users\221\Students\ISPP-31\2semestr\SP\LabWork26\ServerApp\obj\Debug\net8.0\ServerApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\221\Students\ISPP-31\2semestr\SP\LabWork26\ServerApp\obj\Debug\net8.0\ServerApp.AssemblyInfoInputs.cache
+C:\Users\221\Students\ISPP-31\2semestr\SP\LabWork26\ServerApp\obj\Debug\net8.0\ServerApp.AssemblyInfo.cs
+C:\Users\221\Students\ISPP-31\2semestr\SP\LabWork26\ServerApp\obj\Debug\net8.0\ServerApp.csproj.CoreCompileInputs.cache
+C:\Users\221\Students\ISPP-31\2semestr\SP\LabWork26\ServerApp\obj\Debug\net8.0\ServerApp.sourcelink.json
+C:\Users\221\Students\ISPP-31\2semestr\SP\LabWork26\ServerApp\obj\Debug\net8.0\ServerApp.dll
+C:\Users\221\Students\ISPP-31\2semestr\SP\LabWork26\ServerApp\obj\Debug\net8.0\refint\ServerApp.dll
+C:\Users\221\Students\ISPP-31\2semestr\SP\LabWork26\ServerApp\obj\Debug\net8.0\ServerApp.pdb
+C:\Users\221\Students\ISPP-31\2semestr\SP\LabWork26\ServerApp\obj\Debug\net8.0\ServerApp.genruntimeconfig.cache
+C:\Users\221\Students\ISPP-31\2semestr\SP\LabWork26\ServerApp\obj\Debug\net8.0\ref\ServerApp.dll

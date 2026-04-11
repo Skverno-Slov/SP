@@ -1,0 +1,15 @@
+C:\Users\221\Students\ISPP-31\2semestr\SP\LabWork26\ConsoleClientPhoto\bin\Debug\net8.0\ConsoleClientPhoto.exe
+C:\Users\221\Students\ISPP-31\2semestr\SP\LabWork26\ConsoleClientPhoto\bin\Debug\net8.0\ConsoleClientPhoto.deps.json
+C:\Users\221\Students\ISPP-31\2semestr\SP\LabWork26\ConsoleClientPhoto\bin\Debug\net8.0\ConsoleClientPhoto.runtimeconfig.json
+C:\Users\221\Students\ISPP-31\2semestr\SP\LabWork26\ConsoleClientPhoto\bin\Debug\net8.0\ConsoleClientPhoto.dll
+C:\Users\221\Students\ISPP-31\2semestr\SP\LabWork26\ConsoleClientPhoto\bin\Debug\net8.0\ConsoleClientPhoto.pdb
+C:\Users\221\Students\ISPP-31\2semestr\SP\LabWork26\ConsoleClientPhoto\obj\Debug\net8.0\ConsoleClientPhoto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\221\Students\ISPP-31\2semestr\SP\LabWork26\ConsoleClientPhoto\obj\Debug\net8.0\ConsoleClientPhoto.AssemblyInfoInputs.cache
+C:\Users\221\Students\ISPP-31\2semestr\SP\LabWork26\ConsoleClientPhoto\obj\Debug\net8.0\ConsoleClientPhoto.AssemblyInfo.cs
+C:\Users\221\Students\ISPP-31\2semestr\SP\LabWork26\ConsoleClientPhoto\obj\Debug\net8.0\ConsoleClientPhoto.csproj.CoreCompileInputs.cache
+C:\Users\221\Students\ISPP-31\2semestr\SP\LabWork26\ConsoleClientPhoto\obj\Debug\net8.0\ConsoleClientPhoto.sourcelink.json
+C:\Users\221\Students\ISPP-31\2semestr\SP\LabWork26\ConsoleClientPhoto\obj\Debug\net8.0\ConsoleClientPhoto.dll
+C:\Users\221\Students\ISPP-31\2semestr\SP\LabWork26\ConsoleClientPhoto\obj\Debug\net8.0\refint\ConsoleClientPhoto.dll
+C:\Users\221\Students\ISPP-31\2semestr\SP\LabWork26\ConsoleClientPhoto\obj\Debug\net8.0\ConsoleClientPhoto.pdb
+C:\Users\221\Students\ISPP-31\2semestr\SP\LabWork26\ConsoleClientPhoto\obj\Debug\net8.0\ConsoleClientPhoto.genruntimeconfig.cache
+C:\Users\221\Students\ISPP-31\2semestr\SP\LabWork26\ConsoleClientPhoto\obj\Debug\net8.0\ref\ConsoleClientPhoto.dll

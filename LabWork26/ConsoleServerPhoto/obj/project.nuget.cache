@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "La+wYAnoDIo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\221\\Students\\ISPP-31\\2semestr\\SP\\LabWork26\\ConsoleServerPhoto\\ConsoleServerPhoto.csproj",
+  "expectedPackageFiles": [
+    "C:\\NugetCache\\Packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "C:\\NugetCache\\Packages\\system.drawing.common\\8.0.25\\system.drawing.common.8.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
