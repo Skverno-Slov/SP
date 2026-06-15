@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\221\\Students\\ISPP-31\\2semestr\\SP\\LabWork20\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1B8E90CE-D86B-4852-8081-C4957578DA68}|LabWork20\\LabWork20.csproj|c:\\users\\221\\students\\ispp-31\\2semestr\\sp\\labwork20\\labwork20\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{1B8E90CE-D86B-4852-8081-C4957578DA68}|LabWork20\\LabWork20.csproj|solutionrelative:labwork20\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{B27D4110-16F0-0986-490A-3381DA488F40}|LabWork20\\LabWork20.csproj|c:\\users\\221\\students\\ispp-31\\2semestr\\sp\\labwork20\\labwork20\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B27D4110-16F0-0986-490A-3381DA488F40}|LabWork20\\LabWork20.csproj|solutionrelative:labwork20\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1B8E90CE-D86B-4852-8081-C4957578DA68}|LabWork20\\LabWork20.csproj|c:\\users\\221\\students\\ispp-31\\2semestr\\sp\\labwork20\\labwork20\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1B8E90CE-D86B-4852-8081-C4957578DA68}|LabWork20\\LabWork20.csproj|solutionrelative:labwork20\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B27D4110-16F0-0986-490A-3381DA488F40}|LabWork20\\LabWork20.csproj|c:\\users\\221\\students\\ispp-31\\2semestr\\sp\\labwork20\\labwork20\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B27D4110-16F0-0986-490A-3381DA488F40}|LabWork20\\LabWork20.csproj|solutionrelative:labwork20\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,11 +18,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\221\\Students\\ISPP-31\\2semestr\\SP\\LabWork20\\LabWork20\\MainWindow.xaml",
               "RelativeDocumentMoniker": "LabWork20\\MainWindow.xaml",
@@ -34,7 +34,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\221\\Students\\ISPP-31\\2semestr\\SP\\LabWork20\\LabWork20\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "LabWork20\\MainWindow.xaml.cs",

@@ -1,0 +1,27 @@
+﻿<Window x:Class="LabWork27.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LabWork27"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" Closed="Window_Closed">
+    <DockPanel>
+        <StackPanel DockPanel.Dock="Top" x:Name="ChatStackPanel" Visibility="Collapsed">
+            <TextBox x:Name="RoomNameTextBox"/>
+            <ListBox x:Name="MessagesListBox"/>
+            <DockPanel>
+                <TextBlock Text="Сообщение" DockPanel.Dock="Left"/>
+                <Button Content="Отправить" DockPanel.Dock="Right" x:Name="SendButton" Click="SendButton_Click"/>
+                <TextBox x:Name="MessageTextBox"/>
+            </DockPanel>
+        </StackPanel>
+        <StackPanel x:Name="LoginStackPanel">
+            <TextBlock>Логин</TextBlock>
+            <TextBox x:Name="LoginTextBox"/>
+            <TextBlock>Комната</TextBlock>
+            <TextBox x:Name="RoomTextBox"/>
+            <Button Content="Войти" x:Name="EnterButton" Click="EnterButton_Click"/>
+        </StackPanel>
+    </DockPanel>
+</Window>

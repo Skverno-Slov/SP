@@ -27,9 +27,9 @@ internal class Program
             using var sourceBitmap = new Bitmap(ms);
             using var targetBitmap = new Bitmap(sourceBitmap.Width, sourceBitmap.Height); 
 
-            for (int x = 0; x < targetBitmap.Height; x++)
+            for (int x = 0; x < targetBitmap.Width; x++)
             {
-                for (int y = 0; y < targetBitmap.Width; y++)
+                for (int y = 0; y < targetBitmap.Height; y++)
                 {
                     var oldColor = targetBitmap.GetPixel(x, y);
                     var invertedColor = Color.FromArgb(oldColor.A, 255 - oldColor.R, 255 - oldColor.G, 255 - oldColor.B);
