@@ -1,0 +1,52 @@
+﻿option csharp_namespace = "LabWork28Client";
+
+import "google/protobuf/timestamp.proto";
+import "google/protobuf/empty.proto";
+
+package order;
+
+service Orderer {
+  rpc CreateOrder (CreateOrderRequest) returns (OrderResponse);
+  rpc GetOrder (GetOrderRequest) returns (OrderResponse);
+  rpc UpdateOrder (UpdateOrderRequest) returns (OrderResponse);
+  rpc DeleteOrder (DeleteOrderRequest) returns (google.protobuf.Empty);
+  rpc ListOrders (google.protobuf.Empty) returns (OrderListResponse);
+  rpc FilterOrders (FilterOrdersRequest) returns (OrderListResponse);
+}
+
+message Product {
+  required string name = 1;
+  required double price = 2;
+}
+
+message OrderResponse {
+  required string id = 1;
+  required google.protobuf.Timestamp order_date = 2;
+  repeated Product products = 3;
+}
+
+message CreateOrderRequest {
+  repeated Product products = 1;
+}
+
+message GetOrderRequest {
+  required string id = 1;
+}
+
+message UpdateOrderRequest {
+  required string id = 1;
+  repeated Product products = 2;
+}
+
+message DeleteOrderRequest {
+  required string id = 1;
+}
+
+message OrderListResponse {
+  repeated OrderResponse orders = 1;
+}
+
+message FilterOrdersRequest {
+  required google.protobuf.Timestamp start_date = 1;
+  required double min_price = 2;
+}

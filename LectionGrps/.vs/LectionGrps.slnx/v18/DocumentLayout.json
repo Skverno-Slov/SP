@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\221\\Students\\ISPP-31\\2semestr\\SP\\LectionGrps\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{823AEF80-01E5-9EB7-F2EB-0E765BE71989}|GrpsClient\\GrpsClient.csproj|c:\\users\\221\\students\\ispp-31\\2semestr\\sp\\lectiongrps\\grpsclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{823AEF80-01E5-9EB7-F2EB-0E765BE71989}|GrpsClient\\GrpsClient.csproj|solutionrelative:grpsclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{823AEF80-01E5-9EB7-F2EB-0E765BE71989}|GrpsClient\\GrpsClient.csproj|c:\\users\\221\\students\\ispp-31\\2semestr\\sp\\lectiongrps\\grpsclient\\grpsclient.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{823AEF80-01E5-9EB7-F2EB-0E765BE71989}|GrpsClient\\GrpsClient.csproj|solutionrelative:grpsclient\\grpsclient.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F4AA35B-9A53-9B55-B3A5-87543F25E2BF}|LectionGrps\\LectionGrps.csproj|c:\\users\\221\\students\\ispp-31\\2semestr\\sp\\lectiongrps\\lectiongrps\\protos\\greet.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{9F4AA35B-9A53-9B55-B3A5-87543F25E2BF}|LectionGrps\\LectionGrps.csproj|solutionrelative:lectiongrps\\protos\\greet.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{823AEF80-01E5-9EB7-F2EB-0E765BE71989}|GrpsClient\\GrpsClient.csproj|c:\\users\\221\\students\\ispp-31\\2semestr\\sp\\lectiongrps\\grpsclient\\protos\\greet.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{823AEF80-01E5-9EB7-F2EB-0E765BE71989}|GrpsClient\\GrpsClient.csproj|solutionrelative:grpsclient\\protos\\greet.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F4AA35B-9A53-9B55-B3A5-87543F25E2BF}|LectionGrps\\LectionGrps.csproj|c:\\users\\221\\students\\ispp-31\\2semestr\\sp\\lectiongrps\\lectiongrps\\services\\greeterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F4AA35B-9A53-9B55-B3A5-87543F25E2BF}|LectionGrps\\LectionGrps.csproj|solutionrelative:lectiongrps\\services\\greeterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F4AA35B-9A53-9B55-B3A5-87543F25E2BF}|LectionGrps\\LectionGrps.csproj|c:\\users\\221\\students\\ispp-31\\2semestr\\sp\\lectiongrps\\lectiongrps\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F4AA35B-9A53-9B55-B3A5-87543F25E2BF}|LectionGrps\\LectionGrps.csproj|solutionrelative:lectiongrps\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F4AA35B-9A53-9B55-B3A5-87543F25E2BF}|LectionGrps\\LectionGrps.csproj|c:\\users\\221\\students\\ispp-31\\2semestr\\sp\\lectiongrps\\lectiongrps\\lectiongrps.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9F4AA35B-9A53-9B55-B3A5-87543F25E2BF}|LectionGrps\\LectionGrps.csproj|solutionrelative:lectiongrps\\lectiongrps.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F4AA35B-9A53-9B55-B3A5-87543F25E2BF}|LectionGrps\\LectionGrps.csproj|c:\\users\\221\\students\\ispp-31\\2semestr\\sp\\lectiongrps\\lectiongrps\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9F4AA35B-9A53-9B55-B3A5-87543F25E2BF}|LectionGrps\\LectionGrps.csproj|solutionrelative:lectiongrps\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GrpsClient",
+              "DocumentMoniker": "C:\\Users\\221\\Students\\ISPP-31\\2semestr\\SP\\LectionGrps\\GrpsClient\\GrpsClient.csproj",
+              "RelativeDocumentMoniker": "GrpsClient\\GrpsClient.csproj",
+              "ToolTip": "C:\\Users\\221\\Students\\ISPP-31\\2semestr\\SP\\LectionGrps\\GrpsClient\\GrpsClient.csproj",
+              "RelativeToolTip": "GrpsClient\\GrpsClient.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-16T06:23:25.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\221\\Students\\ISPP-31\\2semestr\\SP\\LectionGrps\\GrpsClient\\Program.cs",
+              "RelativeDocumentMoniker": "GrpsClient\\Program.cs",
+              "ToolTip": "C:\\Users\\221\\Students\\ISPP-31\\2semestr\\SP\\LectionGrps\\GrpsClient\\Program.cs",
+              "RelativeToolTip": "GrpsClient\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T05:59:13.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "greet.proto",
+              "DocumentMoniker": "C:\\Users\\221\\Students\\ISPP-31\\2semestr\\SP\\LectionGrps\\GrpsClient\\Protos\\greet.proto",
+              "RelativeDocumentMoniker": "GrpsClient\\Protos\\greet.proto",
+              "ToolTip": "C:\\Users\\221\\Students\\ISPP-31\\2semestr\\SP\\LectionGrps\\GrpsClient\\Protos\\greet.proto",
+              "RelativeToolTip": "GrpsClient\\Protos\\greet.proto",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
+              "WhenOpened": "2026-06-16T06:04:45.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "greet.proto",
+              "DocumentMoniker": "C:\\Users\\221\\Students\\ISPP-31\\2semestr\\SP\\LectionGrps\\LectionGrps\\Protos\\greet.proto",
+              "RelativeDocumentMoniker": "LectionGrps\\Protos\\greet.proto",
+              "ToolTip": "C:\\Users\\221\\Students\\ISPP-31\\2semestr\\SP\\LectionGrps\\LectionGrps\\Protos\\greet.proto",
+              "RelativeToolTip": "LectionGrps\\Protos\\greet.proto",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
+              "WhenOpened": "2026-06-16T05:39:50.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\221\\Students\\ISPP-31\\2semestr\\SP\\LectionGrps\\LectionGrps\\Program.cs",
+              "RelativeDocumentMoniker": "LectionGrps\\Program.cs",
+              "ToolTip": "C:\\Users\\221\\Students\\ISPP-31\\2semestr\\SP\\LectionGrps\\LectionGrps\\Program.cs",
+              "RelativeToolTip": "LectionGrps\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T06:20:41.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GreeterService.cs",
+              "DocumentMoniker": "C:\\Users\\221\\Students\\ISPP-31\\2semestr\\SP\\LectionGrps\\LectionGrps\\Services\\GreeterService.cs",
+              "RelativeDocumentMoniker": "LectionGrps\\Services\\GreeterService.cs",
+              "ToolTip": "C:\\Users\\221\\Students\\ISPP-31\\2semestr\\SP\\LectionGrps\\LectionGrps\\Services\\GreeterService.cs",
+              "RelativeToolTip": "LectionGrps\\Services\\GreeterService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T06:20:43.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LectionGrps.csproj",
+              "DocumentMoniker": "C:\\Users\\221\\Students\\ISPP-31\\2semestr\\SP\\LectionGrps\\LectionGrps\\LectionGrps.csproj",
+              "RelativeDocumentMoniker": "LectionGrps\\LectionGrps.csproj",
+              "ToolTip": "C:\\Users\\221\\Students\\ISPP-31\\2semestr\\SP\\LectionGrps\\LectionGrps\\LectionGrps.csproj",
+              "RelativeToolTip": "LectionGrps\\LectionGrps.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-16T06:06:40.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\221\\Students\\ISPP-31\\2semestr\\SP\\LectionGrps\\LectionGrps\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "LectionGrps\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\221\\Students\\ISPP-31\\2semestr\\SP\\LectionGrps\\LectionGrps\\Properties\\launchSettings.json",
+              "RelativeToolTip": "LectionGrps\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-16T06:08:32.419Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="GrpsClient/GrpsClient.csproj" />
+  <Project Path="LectionGrps/LectionGrps.csproj" />
+</Solution>

@@ -1,0 +1,4 @@
+obj\Debug\net10.0\Protos/Order.cs \
+obj\Debug\net10.0\Protos/OrderGrpc.cs: C:/NugetCache/Packages/grpc.tools/2.81.1/build/native/include/google/protobuf/timestamp.proto\
+ C:/NugetCache/Packages/grpc.tools/2.81.1/build/native/include/google/protobuf/empty.proto\
+ Protos/order.proto

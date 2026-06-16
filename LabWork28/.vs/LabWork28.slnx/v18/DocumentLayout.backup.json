@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\221\\Students\\ISPP-31\\2semestr\\SP\\LabWork28\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F9104ABE-AE23-462A-8E46-3A7DC6C82BB2}|LabWork27Client\\LabWork27Client.csproj|c:\\users\\221\\students\\ispp-31\\2semestr\\sp\\labwork28\\labwork27client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9104ABE-AE23-462A-8E46-3A7DC6C82BB2}|LabWork27Client\\LabWork27Client.csproj|solutionrelative:labwork27client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9104ABE-AE23-462A-8E46-3A7DC6C82BB2}|LabWork27Client\\LabWork28Client.csproj|c:\\users\\221\\students\\ispp-31\\2semestr\\sp\\labwork28\\labwork27client\\protos\\order.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{F9104ABE-AE23-462A-8E46-3A7DC6C82BB2}|LabWork27Client\\LabWork28Client.csproj|solutionrelative:labwork27client\\protos\\order.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D39EF15-EE8C-4065-B20C-02DC133C6803}|LabWork28\\LabWork28.csproj|c:\\users\\221\\students\\ispp-31\\2semestr\\sp\\labwork28\\labwork28\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1D39EF15-EE8C-4065-B20C-02DC133C6803}|LabWork28\\LabWork28.csproj|solutionrelative:labwork28\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9104ABE-AE23-462A-8E46-3A7DC6C82BB2}|LabWork27Client\\LabWork28Client.csproj|c:\\users\\221\\students\\ispp-31\\2semestr\\sp\\labwork28\\labwork27client\\labwork28client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F9104ABE-AE23-462A-8E46-3A7DC6C82BB2}|LabWork27Client\\LabWork28Client.csproj|solutionrelative:labwork27client\\labwork28client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D39EF15-EE8C-4065-B20C-02DC133C6803}|LabWork28\\LabWork28.csproj|c:\\users\\221\\students\\ispp-31\\2semestr\\sp\\labwork28\\labwork28\\protos\\order.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{1D39EF15-EE8C-4065-B20C-02DC133C6803}|LabWork28\\LabWork28.csproj|solutionrelative:labwork28\\protos\\order.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D39EF15-EE8C-4065-B20C-02DC133C6803}|LabWork28\\LabWork28.csproj|c:\\users\\221\\students\\ispp-31\\2semestr\\sp\\labwork28\\labwork28\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D39EF15-EE8C-4065-B20C-02DC133C6803}|LabWork28\\LabWork28.csproj|solutionrelative:labwork28\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D39EF15-EE8C-4065-B20C-02DC133C6803}|LabWork28\\LabWork28.csproj|c:\\users\\221\\students\\ispp-31\\2semestr\\sp\\labwork28\\labwork28\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D39EF15-EE8C-4065-B20C-02DC133C6803}|LabWork28\\LabWork28.csproj|solutionrelative:labwork28\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D39EF15-EE8C-4065-B20C-02DC133C6803}|LabWork28\\LabWork28.csproj|c:\\users\\221\\students\\ispp-31\\2semestr\\sp\\labwork28\\labwork28\\services\\greeterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D39EF15-EE8C-4065-B20C-02DC133C6803}|LabWork28\\LabWork28.csproj|solutionrelative:labwork28\\services\\greeterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D39EF15-EE8C-4065-B20C-02DC133C6803}|LabWork28\\LabWork28.csproj|c:\\users\\221\\students\\ispp-31\\2semestr\\sp\\labwork28\\labwork28\\protos\\greet.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{1D39EF15-EE8C-4065-B20C-02DC133C6803}|LabWork28\\LabWork28.csproj|solutionrelative:labwork28\\protos\\greet.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D39EF15-EE8C-4065-B20C-02DC133C6803}|LabWork28\\LabWork28.csproj|c:\\users\\221\\students\\ispp-31\\2semestr\\sp\\labwork28\\labwork28\\labwork28.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1D39EF15-EE8C-4065-B20C-02DC133C6803}|LabWork28\\LabWork28.csproj|solutionrelative:labwork28\\labwork28.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\221\\Students\\ISPP-31\\2semestr\\SP\\LabWork28\\LabWork28\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "LabWork28\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\221\\Students\\ISPP-31\\2semestr\\SP\\LabWork28\\LabWork28\\Properties\\launchSettings.json",
+              "RelativeToolTip": "LabWork28\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-16T08:25:34.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "order.proto",
+              "DocumentMoniker": "C:\\Users\\221\\Students\\ISPP-31\\2semestr\\SP\\LabWork28\\LabWork27Client\\Protos\\order.proto",
+              "RelativeDocumentMoniker": "LabWork27Client\\Protos\\order.proto",
+              "ToolTip": "C:\\Users\\221\\Students\\ISPP-31\\2semestr\\SP\\LabWork28\\LabWork27Client\\Protos\\order.proto",
+              "RelativeToolTip": "LabWork27Client\\Protos\\order.proto",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
+              "WhenOpened": "2026-06-16T07:29:16.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\221\\Students\\ISPP-31\\2semestr\\SP\\LabWork28\\LabWork28\\Program.cs",
+              "RelativeDocumentMoniker": "LabWork28\\Program.cs",
+              "ToolTip": "C:\\Users\\221\\Students\\ISPP-31\\2semestr\\SP\\LabWork28\\LabWork28\\Program.cs",
+              "RelativeToolTip": "LabWork28\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T07:28:05.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GreeterService.cs",
+              "DocumentMoniker": "C:\\Users\\221\\Students\\ISPP-31\\2semestr\\SP\\LabWork28\\LabWork28\\Services\\GreeterService.cs",
+              "RelativeDocumentMoniker": "LabWork28\\Services\\GreeterService.cs",
+              "ToolTip": "C:\\Users\\221\\Students\\ISPP-31\\2semestr\\SP\\LabWork28\\LabWork28\\Services\\GreeterService.cs",
+              "RelativeToolTip": "LabWork28\\Services\\GreeterService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T07:23:53.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "greet.proto",
+              "DocumentMoniker": "C:\\Users\\221\\Students\\ISPP-31\\2semestr\\SP\\LabWork28\\LabWork28\\Protos\\greet.proto",
+              "RelativeDocumentMoniker": "LabWork28\\Protos\\greet.proto",
+              "ToolTip": "C:\\Users\\221\\Students\\ISPP-31\\2semestr\\SP\\LabWork28\\LabWork28\\Protos\\greet.proto",
+              "RelativeToolTip": "LabWork28\\Protos\\greet.proto",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
+              "WhenOpened": "2026-06-16T07:22:07.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\221\\Students\\ISPP-31\\2semestr\\SP\\LabWork28\\LabWork28\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "LabWork28\\Services\\OrderService.cs",
+              "ToolTip": "C:\\Users\\221\\Students\\ISPP-31\\2semestr\\SP\\LabWork28\\LabWork28\\Services\\OrderService.cs",
+              "RelativeToolTip": "LabWork28\\Services\\OrderService.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAIwB0AAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T07:21:09.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LabWork28",
+              "DocumentMoniker": "C:\\Users\\221\\Students\\ISPP-31\\2semestr\\SP\\LabWork28\\LabWork28\\LabWork28.csproj",
+              "RelativeDocumentMoniker": "LabWork28\\LabWork28.csproj",
+              "ToolTip": "C:\\Users\\221\\Students\\ISPP-31\\2semestr\\SP\\LabWork28\\LabWork28\\LabWork28.csproj",
+              "RelativeToolTip": "LabWork28\\LabWork28.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-16T07:19:51.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "order.proto",
+              "DocumentMoniker": "C:\\Users\\221\\Students\\ISPP-31\\2semestr\\SP\\LabWork28\\LabWork28\\Protos\\order.proto",
+              "RelativeDocumentMoniker": "LabWork28\\Protos\\order.proto",
+              "ToolTip": "C:\\Users\\221\\Students\\ISPP-31\\2semestr\\SP\\LabWork28\\LabWork28\\Protos\\order.proto",
+              "RelativeToolTip": "LabWork28\\Protos\\order.proto",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
+              "WhenOpened": "2026-06-16T07:17:07.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LabWork28Client",
+              "DocumentMoniker": "C:\\Users\\221\\Students\\ISPP-31\\2semestr\\SP\\LabWork28\\LabWork27Client\\LabWork28Client.csproj",
+              "RelativeDocumentMoniker": "LabWork27Client\\LabWork28Client.csproj",
+              "ToolTip": "C:\\Users\\221\\Students\\ISPP-31\\2semestr\\SP\\LabWork28\\LabWork27Client\\LabWork28Client.csproj",
+              "RelativeToolTip": "LabWork27Client\\LabWork28Client.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-16T07:15:29.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\221\\Students\\ISPP-31\\2semestr\\SP\\LabWork28\\LabWork27Client\\Program.cs",
+              "RelativeDocumentMoniker": "LabWork27Client\\Program.cs",
+              "ToolTip": "C:\\Users\\221\\Students\\ISPP-31\\2semestr\\SP\\LabWork28\\LabWork27Client\\Program.cs*",
+              "RelativeToolTip": "LabWork27Client\\Program.cs*",
+              "ViewState": "AgIAAI8AAAAAAAAAAAAAwJAAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T07:15:18.046Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
